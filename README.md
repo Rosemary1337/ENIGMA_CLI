@@ -212,14 +212,6 @@ For AI functionality, add your OpenAI API key:
 1. Add it directly to `openai_apikey.txt` file
 2. Or use the `--api-key` parameter with each AI command
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
